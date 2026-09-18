@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Lo Mastro Vending & Service">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1257d6"/>
+      <stop offset="1" stop-color="#12c2c9"/>
+    </linearGradient>
+    <clipPath id="drum"><circle cx="32" cy="37" r="10.5"/></clipPath>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)"/>
+  <rect x="14" y="10" width="36" height="44" rx="6" fill="#ffffff"/>
+  <rect x="14" y="10" width="36" height="11" rx="6" fill="#0a1a2f"/>
+  <circle cx="21" cy="15.5" r="2.2" fill="#12c2c9"/>
+  <circle cx="28" cy="15.5" r="2.2" fill="#ffffff" opacity=".65"/>
+  <circle cx="32" cy="37" r="14" fill="#0a1a2f"/>
+  <circle cx="32" cy="37" r="10.5" fill="#ffffff"/>
+  <g clip-path="url(#drum)">
+    <path d="M18 38c3.5-3.6 7-3.6 10.5 0s7 3.6 10.5 0 7-3.6 10.5 0v12H18z" fill="#12c2c9"/>
+  </g>
+</svg>
